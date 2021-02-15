@@ -4,6 +4,7 @@ From 🇹🇼 Taiwan.
 Life Blog [Here](https://dandanxo.github.io/) 👈
 
 Chinese resume [cakre Resume](https://www.cakeresume.com/dandanXO-zh)
+
 English resume [cakre Resume](https://www.cakeresume.com/dandanXO-en)
 
 More about me,your can see below
