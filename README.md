@@ -3,7 +3,8 @@ From 🇹🇼 Taiwan.
 
 Life Blog [Here](https://dandanxo.github.io/) 👈
 
-Chinese resume [cakre Resume](https://www.cakeresume.com/s--NPElWg2TFAv-KEB9390Buw--/dandanXO)
+Chinese resume [cakre Resume](https://www.cakeresume.com/dandanXO-zh)
+English resume [cakre Resume](https://www.cakeresume.com/dandanXO-en)
 
 More about me,your can see below
 <!--
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 # 📫 How to reach me
 
 - email: `dandanxo.1996@gmail.com`
-- linkedIn: `https://www.linkedin.com/`
+- linkedIn: `https://www.linkedin.com/in/%E7%9A%93-%E5%BA%B7-7b87749a/`
 
 
 
