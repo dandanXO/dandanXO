@@ -1,4 +1,6 @@
 # Hi there 👋 I am Dan
+![Dandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandanXO)
+
 From 🇹🇼 Taiwan.
 
 Life Blog [Here](https://dandanxo.github.io/) 👈
